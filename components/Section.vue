@@ -97,9 +97,10 @@ export default {
 
 .photo-grid img {
   width: 100%;
-  height: 200%;
+  height: auto;
   object-fit: cover;
   border-radius: 6px;
+  aspect-ratio: 1 / 1;
 }
 
 .header {

@@ -138,7 +138,9 @@ export default {
   color: #5e5e5e;
   margin-bottom: 12px;
   line-height: 1.6;
-  width: 800px;
+  max-width: 800px;
+  width: 100%;
+  box-sizing: border-box;
 }
 .projects-button {
   margin-top: 10px;
