@@ -113,7 +113,7 @@ export default {
 }
 
 .portfolio-title {
-  font-size: 10rem;
+  font-size: 8rem;
   font-weight: 900;
   margin: 0;
   text-transform: uppercase;
